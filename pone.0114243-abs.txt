@@ -1,0 +1,11 @@
+Objectives
+We investigated incidence rates to understand the nature of medication errors potentially introduced by utilizing a computerized physician order entry (CPOE) system in the three clinical phases of the medication process: prescription, administration, and documentation.
+
+Methods
+Overt observations and chart reviews were employed at two surgical intensive care units of a 950-bed tertiary teaching hospital. Ten categories of high-risk drugs prescribed over a four-month period were noted and reviewed. Error definition and classifications were adapted from previous studies for use in the present research. Incidences of medication errors in the three phases of the medication process were analyzed. In addition, nurses' responses to prescription errors were also assessed.
+
+Results
+Of the 534 prescriptions issued, 286 (53.6%) included at least one error. The proportion of errors was 19.0% (58) of the 306 drug administrations, of which two-thirds were verbal orders classified as errors due to incorrectly entered prescriptions. Documentation errors occurred in 205 (82.7%) of 248 correctly performed administrations. When tracking incorrectly entered prescriptions, 93% of the errors were intercepted by nurses, but two-thirds of them were recorded as prescribed rather than administered.
+
+Conclusion
+The number of errors occurring at each phase of the medication process was relatively high, despite long experience with a CPOE system. The main causes of administration errors and documentation errors were prescription errors and verbal order processes. To reduce these errors, hospital-level and unit-level efforts toward a better system are needed.

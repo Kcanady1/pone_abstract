@@ -1,0 +1,11 @@
+Purpose
+Attenuation correction (AC) based on low-dose computed tomography (CT) could be more accurate in brain single-photon emission computed tomography (SPECT) than the widely used Chang method, and, therefore, has the potential to improve both semi-quantitative analysis and visual image interpretation. The present study evaluated CT-based AC for dopamine transporter SPECT with I-123-ioflupane.
+
+Materials and methods
+Sixty-two consecutive patients in whom I-123-ioflupane SPECT including low-dose CT had been performed were recruited retrospectively at 3 centres. For each patient, 3 different SPECT images were reconstructed: without AC, with Chang AC and with CT-based AC. Distribution volume ratio (DVR) images were obtained by scaling voxel intensities using the whole brain without striata as reference. For assessing the impact of AC on semi-quantitative analysis, specific-to-background ratios (SBR) in caudate and putamen were obtained by fully automated SPM8-based region of interest (ROI) analysis and tested for their diagnostic power using receiver-operator-characteristic (ROC) analysis. For assessing the impact of AC on visual image reading, screenshots of stereotactically normalized DVR images presented in randomized order were interpreted independently by two raters at each centre.
+
+Results
+CT-based AC resulted in intermediate SBRs about half way between no AC and Chang. Maximum area under the ROC curve was achieved by the putamen SBR, with negligible impact of AC (0.924, 0.935 and 0.938 for no, CT-based and Chang AC). Diagnostic accuracy of visual interpretation also did not depend on AC.
+
+Conclusions
+The impact of CT-based versus Chang AC on the interpretation of I-123-ioflupane SPECT is negligible. Therefore, CT-based AC cannot be recommended for routine use in clinical patient care, not least because of the additional radiation exposure.

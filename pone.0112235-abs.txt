@@ -1,0 +1,11 @@
+Objective
+To investigate factors associated with engagement of U.S. Federal Health Agencies via Twitter. Our specific goals are to study factors related to a) numbers of retweets, b) time between the agency tweet and first retweet and c) time between the agency tweet and last retweet.
+
+Methods
+We collect 164,104 tweets from 25 Federal Health Agencies and their 130 accounts. We use negative binomial hurdle regression models and Cox proportional hazards models to explore the influence of 26 factors on agency engagement. Account features include network centrality, tweet count, numbers of friends, followers, and favorites. Tweet features include age, the use of hashtags, user-mentions, URLs, sentiment measured using Sentistrength, and tweet content represented by fifteen semantic groups.
+
+Results
+A third of the tweets (53,556) had zero retweets. Less than 1% (613) had more than 100 retweets (mean  = 284). The hurdle analysis shows that hashtags, URLs and user-mentions are positively associated with retweets; sentiment has no association with retweets; and tweet count has a negative association with retweets. Almost all semantic groups, except for geographic areas, occupations and organizations, are positively associated with retweeting. The survival analyses indicate that engagement is positively associated with tweet age and the follower count.
+
+Conclusions
+Some of the factors associated with higher levels of Twitter engagement cannot be changed by the agencies, but others can be modified (e.g., use of hashtags, URLs). Our findings provide the background for future controlled experiments to increase public health engagement via Twitter.

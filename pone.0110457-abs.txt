@@ -1,0 +1,11 @@
+Introduction
+Palliative care is rarely accessible in rural sub-Saharan Africa. Partners In Health and the Malawi government established the Neno Palliative Care Program (NPCP) to provide palliative care in rural Neno district. We conducted a situation analysis to evaluate early NPCP outcomes and better understand palliative care needs, knowledge, and preferences.
+
+Methods
+Employing rapid evaluation methodology, we collected data from 3 sources: 1) chart review of all adult patients from the NPCP’s first 9 months; 2) structured interviews with patients and caregivers; 3) semi-structured interviews with key stakeholders.
+
+Results
+The NPCP enrolled 63 patients in its first 9 months. Frequent diagnoses were cancer (n = 50, 79%) and HIV/AIDS (n = 37 of 61, 61%). Nearly all (n = 31, 84%) patients with HIV/AIDS were on antiretroviral therapy. Providers registered 112 patient encounters, including 22 (20%) home visits. Most (n = 43, 68%) patients had documented pain at baseline, of whom 23 (53%) were treated with morphine. A majority (n = 35, 56%) had ≥1 follow-up encounter. Mean African Palliative Outcome Scale pain score decreased non-significantly between baseline and follow-up (3.0 vs. 2.7, p = 0.5) for patients with baseline pain and complete pain assessment documentation. Providers referred 48 (76%) patients for psychosocial services, including community health worker support, socioeconomic assistance, or both. We interviewed 36 patients referred to the NPCP after the chart review period. Most had cancer (n = 19, 53%) or HIV/AIDS (n = 10, 28%). Patients frequently reported needing income (n = 24, 67%) or food (n = 22, 61%). Stakeholders cited a need to make integrated palliative care widely available.
+
+Conclusions
+We identified a high prevalence of pain and psychosocial needs among patients with serious chronic illnesses in rural Malawi. Early NPCP results suggest that comprehensive palliative care can be provided in rural Africa by integrating disease-modifying treatment and palliative care, linking hospital, clinic, and home-based services, and providing psychosocial support that includes socioeconomic assistance.

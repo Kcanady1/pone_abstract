@@ -1,0 +1,11 @@
+Objective
+Aerosol delivery holds potential to release surfactant or perfluorocarbon (PFC) to the lungs of neonates with respiratory distress syndrome with minimal airway manipulation. Nevertheless, lung deposition in neonates tends to be very low due to extremely low lung volumes, narrow airways and high respiratory rates. In the present study, the feasibility of enhancing lung deposition by intracorporeal delivery of aerosols was investigated using a physical model of neonatal conducting airways.
+
+Methods
+The main characteristics of the surfactant and PFC aerosols produced by a nebulization system, including the distal air pressure and air flow rate, liquid flow rate and mass median aerodynamic diameter (MMAD), were measured at different driving pressures (4–7 bar). Then, a three-dimensional model of the upper conducting airways of a neonate was manufactured by rapid prototyping and a deposition study was conducted.
+
+Results
+The nebulization system produced relatively large amounts of aerosol ranging between 0.3±0.0 ml/min for surfactant at a driving pressure of 4 bar, and 2.0±0.1 ml/min for distilled water (H2Od) at 6 bar, with MMADs between 2.61±0.1 µm for PFD at 7 bar and 10.18±0.4 µm for FC-75 at 6 bar. The deposition study showed that for surfactant and H2Od aerosols, the highest percentage of the aerosolized mass (∼65%) was collected beyond the third generation of branching in the airway model. The use of this delivery system in combination with continuous positive airway pressure set at 5 cmH2O only increased total airway pressure by 1.59 cmH2O at the highest driving pressure (7 bar).
+
+Conclusion
+This aerosol generating system has the potential to deliver relatively large amounts of surfactant and PFC beyond the third generation of branching in a neonatal airway model with minimal alteration of pre-set respiratory support.

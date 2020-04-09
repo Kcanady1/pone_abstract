@@ -1,0 +1,14 @@
+Background
+The QUOROM and PRISMA statements were published in 1999 and 2009, respectively, to improve the consistency of reporting systematic reviews (SRs)/meta-analyses (MAs) of clinical trials. However, not all SRs/MAs adhere completely to these important standards. In particular, it is not clear how well SRs/MAs of acupuncture studies adhere to reporting standards and which reporting criteria are generally ignored in these analyses.
+
+Objectives
+To evaluate reporting quality in SRs/MAs of acupuncture studies.
+
+Methods
+We performed a literature search for studies published prior to 2014 using the following public archives: PubMed, EMBASE, Web of Science, the Cochrane Database of Systematic Reviews (CDSR), the Chinese Biomedical Literature Database (CBM), the Traditional Chinese Medicine (TCM) database, the Chinese Journal Full-text Database (CJFD), the Chinese Scientific Journal Full-text Database (CSJD), and the Wanfang database. Data were extracted into pre-prepared Excel data-extraction forms. Reporting quality was assessed based on the PRISMA checklist (27 items).
+
+Results
+Of 476 appropriate SRs/MAs identified in our search, 203, 227, and 46 were published in Chinese journals, international journals, and the Cochrane Database, respectively. In 476 SRs/MAs, only 3 reported the information completely. By contrast, approximately 4.93% (1/203), 8.81% (2/227) and 0.00% (0/46) SRs/Mas reported less than 10 items in Chinese journals, international journals and CDSR, respectively. In general, the least frequently reported items (reported≤50%) in SRs/MAs were “protocol and registration”, “risk of bias across studies”, and “additional analyses” in both methods and results sections.
+
+Conclusions
+SRs/MAs of acupuncture studies have not comprehensively reported information recommended in the PRISMA statement. Our study underscores that, in addition to focusing on careful study design and performance, attention should be paid to comprehensive reporting standards in SRs/MAs on acupuncture studies.

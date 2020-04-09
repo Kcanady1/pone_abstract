@@ -1,0 +1,11 @@
+Background
+Poverty is a multidimensional phenomenon and unidimensional measurements have proven inadequate to the challenge of assessing its dynamics. Dynamics between poverty and public health intervention is among the most difficult yet important problems faced in development. We sought to demonstrate how multidimensional poverty measures can be utilized in the evaluation of public health interventions; and to create geospatial maps of poverty deprivation to aid implementers in prioritizing program planning.
+
+Methods
+Survey teams interviewed a representative sample of 3,749 female heads of household in 259 enumeration areas across Zambézia in August-September 2010. We estimated a multidimensional poverty index, which can be disaggregated into context-specific indicators. We produced an MPI comprised of 3 dimensions and 11 weighted indicators selected from the survey. Households were identified as “poor” if were deprived in >33% of indicators. Our MPI is an adjusted headcount, calculated by multiplying the proportion identified as poor (headcount) and the poverty gap (average deprivation). Geospatial visualizations of poverty deprivation were created as a contextual baseline for future evaluation.
+
+Results
+In our rural (96%) and urban (4%) interviewees, the 33% deprivation cut-off suggested 58.2% of households were poor (29.3% of urban vs. 59.5% of rural). Among the poor, households experienced an average deprivation of 46%; thus the MPI/adjusted headcount is 0.27 ( = 0.58×0.46). Of households where a local language was the primary language, 58.6% were considered poor versus Portuguese-speaking households where 73.5% were considered non-poor. Living standard is the dominant deprivation, followed by health, and then education.
+
+Conclusions
+Multidimensional poverty measurement can be integrated into program design for public health interventions, and geospatial visualization helps examine the impact of intervention deployment within the context of distinct poverty conditions. Both permit program implementers to focus resources and critically explore linkages between poverty and its social determinants, thus deriving useful findings for evidence-based planning.

@@ -1,0 +1,11 @@
+Background
+Several studies have focused on stratifying patients according to their level of readmission risk, fueled in part by incentive programs in the U.S. that link readmission rates to the annual payment update by Medicare. Patient-specific predictions about readmission have not seen widespread use because of their limited accuracy and questions about the efficacy of using measures of risk to guide clinical decisions. We construct a predictive model for readmissions for congestive heart failure (CHF) and study how its predictions can be used to perform patient-specific interventions. We assess the cost-effectiveness of a methodology that combines prediction and decision making to allocate interventions. The results highlight the importance of combining predictions with decision analysis.
+
+Methods
+We construct a statistical classifier from a retrospective database of 793 hospital visits for heart failure that predicts the likelihood that patients will be rehospitalized within 30 days of discharge. We introduce a decision analysis that uses the predictions to guide decisions about post-discharge interventions. We perform a cost-effectiveness analysis of 379 additional hospital visits that were not included in either the formulation of the classifiers or the decision analysis. We report the performance of the methodology and show the overall expected value of employing a real-time decision system.
+
+Findings
+For the cohort studied, readmissions are associated with a mean cost of $13,679 with a standard error of $1,214. Given a post-discharge plan that costs $1,300 and that reduces 30-day rehospitalizations by 35%, use of the proposed methods would provide an 18.2% reduction in rehospitalizations and save 3.8% of costs.
+
+Conclusions
+Classifiers learned automatically from patient data can be joined with decision analysis to guide the allocation of post-discharge support to CHF patients. Such analyses are especially valuable in the common situation where it is not economically feasible to provide programs to all patients.

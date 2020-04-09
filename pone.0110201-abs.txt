@@ -1,0 +1,11 @@
+Objectives
+To evaluate accuracy of estimated graft size for living-related liver transplantation using a semi-automated interactive software for CT-volumetry.
+
+Materials and Methods
+Sixteen donors for living-related liver transplantation (11 male; mean age: 38.2±9.6 years) underwent contrast-enhanced CT prior to graft removal. CT-volumetry was performed using a semi-automated interactive software (P), and compared with a manual commercial software (TR). For P, liver volumes were provided either with or without vessels. For TR, liver volumes were provided always with vessels. Intraoperative weight served as reference standard. Major study goals included analyses of volumes using absolute numbers, linear regression analyses and inter-observer agreements. Minor study goals included the description of the software workflow: degree of manual correction, speed for completion, and overall intuitiveness using five-point Likert scales: 1–markedly lower/faster/higher for P compared with TR, 2–slightly lower/faster/higher for P compared with TR, 3–identical for P and TR, 4–slightly lower/faster/higher for TR compared with P, and 5–markedly lower/faster/higher for TR compared with P.
+
+Results
+Liver segments II/III, II–IV and V–VIII served in 6, 3, and 7 donors as transplanted liver segments. Volumes were 642.9±368.8 ml for TR with vessels, 623.8±349.1 ml for P with vessels, and 605.2±345.8 ml for P without vessels (P<0.01). Regression equations between intraoperative weights and volumes were y = 0.94x+30.1 (R2 = 0.92; P<0.001) for TR with vessels, y = 1.00x+12.0 (R2 = 0.92; P<0.001) for P with vessels, and y = 1.01x+28.0 (R2 = 0.92; P<0.001) for P without vessels. Inter-observer agreement showed a bias of 1.8 ml for TR with vessels, 5.4 ml for P with vessels, and 4.6 ml for P without vessels. For the degree of manual correction, speed for completion and overall intuitiveness, scale values were 2.6±0.8, 2.4±0.5 and 2.
+
+Conclusions
+CT-volumetry performed with P can predict accurately graft size for living-related liver transplantation while improving workflow compared with TR.
