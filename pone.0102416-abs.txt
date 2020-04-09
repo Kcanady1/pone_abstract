@@ -1,0 +1,11 @@
+Background
+Tobacco smoking and binge alcohol drinking are two of the leading risk factors for premature mortality worldwide. In India, studies have examined the geographic distributions of tobacco smoking and alcohol drinking only at the state-level; sub-state variations and the spatial association between the two consumptions are poorly understood.
+
+Methodology
+We used data from the Special Fertility and Mortality Survey conducted in 1998 to examine the geographic distributions of tobacco smoking and alcohol drinking at the district and postal code levels. We used kriging interpolation to generate smoking and drinking distributions at the postal code level. We also examined spatial autocorrelations and identified spatial clusters of high and low prevalence of smoking and drinking. Finally, we used bivariate analyses to examine the spatial correlations between smoking and drinking, and between cigarette and bidi smoking.
+
+Results
+There was a high prevalence of any smoking in the central and northeastern states, and a high prevalence of any drinking in Himachal Pradesh, Arunachal Pradesh, and eastern Madhya Pradesh. Spatial clusters of early smoking (started smoking before age 20) were identified in the central states. Cigarette and bidi smoking showed distinctly different geographic patterns, with high levels of cigarette smoking in the northeastern states and high levels of bidi smoking in the central states. The geographic pattern of bidi smoking was similar to early smoking. Cigarette smoking was spatially associated with any drinking. Smoking prevalences in 1998 were correlated with prevalences in 2004 at the district level and 2010 at the state level.
+
+Conclusion
+These results along with earlier evidence on the complementarities between tobacco smoking and alcohol drinking suggest that local public health action on smoking might also help to reduce alcohol consumption, and vice versa. Surveys that properly represent tobacco and alcohol consumptions at the district level are recommended.

@@ -1,0 +1,11 @@
+Introduction
+Accurate, continuous, left ventricular stroke volume (SV) measurements can convey large amounts of information about patient hemodynamic status and response to therapy. However, direct measurements are highly invasive in clinical practice, and current procedures for estimating SV require specialized devices and significant approximation.
+
+Method
+This study investigates the accuracy of a three element Windkessel model combined with an aortic pressure waveform to estimate SV. Aortic pressure is separated into two components capturing; 1) resistance and compliance, 2) characteristic impedance. This separation provides model-element relationships enabling SV to be estimated while requiring only one of the three element values to be known or estimated. Beat-to-beat SV estimation was performed using population-representative optimal values for each model element. This method was validated using measured SV data from porcine experiments (N = 3 female Pietrain pigs, 29–37 kg) in which both ventricular volume and aortic pressure waveforms were measured simultaneously.
+
+Results
+The median difference between measured SV from left ventricle (LV) output and estimated SV was 0.6 ml with a 90% range (5th–95th percentile) −12.4 ml–14.3 ml. During periods when changes in SV were induced, cross correlations in between estimated and measured SV were above R = 0.65 for all cases.
+
+Conclusion
+The method presented demonstrates that the magnitude and trends of SV can be accurately estimated from pressure waveforms alone, without the need for identification of complex physiological metrics where strength of correlations may vary significantly from patient to patient.

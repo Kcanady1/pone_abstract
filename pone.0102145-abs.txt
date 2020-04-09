@@ -1,0 +1,11 @@
+Purpose
+The negative effects of peer aggression on mental health are key issues for public health. The purpose of this study was to examine the associations between cyberbullying and school bullying victimization with suicidal ideation, plans and attempts among middle and high school students, and to test whether these relationships were mediated by reports of depression.
+
+Methods
+Data for this study are from the 2011 Eastern Ontario Youth Risk Behaviour Survey, which is a cross-sectional regional school-based survey that was conducted among students in selected Grade 7 to 12 classes (1658 girls, 1341 boys; mean±SD age: 14.3±1.8 years).
+
+Results
+Victims of cyberbullying and school bullying incurred a significantly higher risk of suicidal ideation (cyberbullying: crude odds ratio, 95% confidence interval  = 3.31, 2.16–5.07; school bullying: 3.48, 2.48–4.89), plans (cyberbullying: 2.79, 1.63–4.77; school bullying: 2.76, 2.20–3.45) and attempts (cyberbullying: 1.73, 1.26–2.38; school bullying: 1.64, 1.18–2.27) compared to those who had not encountered such threats. Results were similar when adjusting for sociodemographic characteristics, substance use, and sedentary activities. Mediation analyses indicated that depression fully mediated the relationship between cyberbullying victimization and each of the outcomes of suicidal ideation, plans and attempts. Depression also fully mediated the relationship between school bullying victimization and suicide attempts, but partially mediated the relationship between school bullying victimization and both suicidal ideation and plans.
+
+Conclusion
+These findings support an association between both cyberbullying and school bullying victimization and risk of suicidal ideation, plans and attempts. The mediating role of depression on these links justifies the need for addressing depression among victims of both forms of bullying to prevent the risk of subsequent suicidal behaviours.
